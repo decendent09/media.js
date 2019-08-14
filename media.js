@@ -11,6 +11,4 @@ let nota2 = 7
 
  if (media = "10")
  console.log("Aprovado com destinção")
- 
-
 
